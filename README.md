@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zokomom
-- 👀 I’m interested in Web Development/Web Applications
-- 🌱 I’m currently learning Web Development
+- 👀 I’m interested in Software Development Engineering
+- 🌱 I’m currently aspiring Python Backend Development
 - 💞️ I’m looking to collaborate in Multiple IT fields
 - 😄 Pronouns: He/Him
 
