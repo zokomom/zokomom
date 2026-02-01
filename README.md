@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zokomom
 - 👀 I’m interested in Software Development Engineering
 - 🌱 I’m currently exploring Python Backend Development
-- 💞️ I’m looking to collaborate in Multiple IT fields
+- 😃 I’m looking to collaborate in Multiple IT fields
 - 😄 Pronouns: He/Him
 
 <!---
