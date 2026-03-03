@@ -46,52 +46,103 @@ me.say_hi()
 
 ## 🎯 What I'm Up To
 
+<div align="center">
+
 <table>
-<tr>
-<td width="50%">
-
-🔭 &nbsp;**Currently building** cool Python backends  
-🌱 &nbsp;**Learning** FastAPI, REST APIs & system design  
-🤝 &nbsp;**Open to collaborate** on exciting IT projects  
-💬 &nbsp;**Ask me about** Python, APIs, or mountain life 🏔️  
-⚡ &nbsp;**Fun fact:** My commits come with fresh mountain air  
-
-</td>
-<td width="50%">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif"/>
-
-</td>
-</tr>
+  <tr>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/BUILDING-FF6B6B?style=for-the-badge&logoColor=white" /><br/><br/>
+      <b>Cool backends &</b><br/><b>REST APIs 🔭</b>
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/LEARNING-FFC93C?style=for-the-badge&logoColor=white" /><br/><br/>
+      <b>FastAPI · System</b><br/><b>Design · Clean Arch 🌱</b>
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/TARGET-6BCB77?style=for-the-badge&logoColor=white" /><br/><br/>
+      <b>First Dev Job</b><br/><b>in 2025 💼</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/OPEN_TO-4D96FF?style=for-the-badge&logoColor=white" /><br/><br/>
+      <b>Collabs · Internships</b><br/><b>· Side Projects 🤝</b>
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/ASK_ME-FF8E53?style=for-the-badge&logoColor=white" /><br/><br/>
+      <b>Python · APIs</b><br/><b>· Mountain Life 🏔️</b>
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/FUN_FACT-a855f7?style=for-the-badge&logoColor=white" /><br/><br/>
+      <b>My commits come</b><br/><b>with mountain air ⚡</b>
+    </td>
+  </tr>
 </table>
+
+<br/>
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="coding gif"/>
+
+</div>
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
-<div align="center">
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-**Frameworks & Libraries**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="90">
+      <img height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"><br>Python
+    </td>
+    <td align="center" width="90">
+      <img height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"><br>JavaScript
+    </td>
+    <td align="center" width="90">
+      <img height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"><br>HTML5
+    </td>
+    <td align="center" width="90">
+      <img height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"><br>CSS3
+    </td>
+    <td align="center" width="90">
+      <img height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"><br>FastAPI
+    </td>
+    <td align="center" width="90">
+      <img height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"><br>React
+    </td>
+    <td align="center" width="90">
+      <img height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"><br>Tailwind
+    </td>
+    <td align="center" width="90">
+      <img height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg"><br>SQLAlchemy
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <img height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"><br>PostgreSQL
+    </td>
+    <td align="center" width="90">
+      <img height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"><br>MySQL
+    </td>
+    <td align="center" width="90">
+      <img height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"><br>Git
+    </td>
+    <td align="center" width="90">
+      <img height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"><br>GitHub
+    </td>
+    <td align="center" width="90">
+      <img height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"><br>VS Code
+    </td>
+    <td align="center" width="90">
+      <img height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg"><br>Postman
+    </td>
+    <td align="center" width="90">
+      <img height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"><br>Docker
+    </td>
+    <td align="center" width="90">
+      <img height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"><br>Linux
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -137,9 +188,9 @@ me.say_hi()
 
 | 🚀 Project | 📝 Description | 🛠️ Tech |
 |:---:|:---:|:---:|
-| [**InteractHub**](https://github.com/zokomom/InteractHub) | FastAPI Social Media Replica | ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue) |
-| [**geo_json_v2**](https://github.com/zokomom/geo_json_v2) | CLI tool using Geoapify Geocoding API | ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue) |
-| [**Blogging-Platform-API**](https://github.com/zokomom/Blogging-Platform-API) | RESTful API for a personal blogging platform | ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue) |
+| [**InteractHub**](https://github.com/zokomom/InteractHub) | FastAPI Social Media Replica | ![Backend](https://img.shields.io/badge/Backend-FFD43B?style=flat-square&logoColor=blue) |
+| [**geo_json_v2**](https://github.com/zokomom/geo_json_v2) | CLI tool using Geoapify Geocoding API | ![Backend](https://img.shields.io/badge/Backend-FFD43B?style=flat-square&logoColor=blue) |
+| [**Blogging-Platform-API**](https://github.com/zokomom/Blogging-Platform-API) | RESTful API for a personal blogging platform | ![Backend](https://img.shields.io/badge/Backend-FFD43B?style=flat-square&logoColor=blue) |
 | [**noteshub**](https://github.com/zokomom/noteshub) | Responsive academic notes organizer | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
 
 </div>
