@@ -160,7 +160,7 @@ me.say_hi()
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zokomom&theme=radical&hide_border=true&bg_color=0D1117&color=FF6B6B&line=FFC93C&point=6BCB77&radius=8" />
+
 
 </div>
 
